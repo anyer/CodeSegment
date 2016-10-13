@@ -1,4 +1,4 @@
-package com.changan.common.util;
+package com.xxx.common.util;
 
 import java.text.ParseException;  
 import java.text.SimpleDateFormat;  
